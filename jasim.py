@@ -1,1 +1,1 @@
-print("From akjasim")
+print("From ")
